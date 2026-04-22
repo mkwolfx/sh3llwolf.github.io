@@ -1,12 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
-* [🐉 Web Methodology](readme-1.md)
-
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [🐉 Web Methodology](README.md)
 
 ## 🌏 Web Attack
 
@@ -16,10 +10,7 @@
   * [SecLists wordlist](web-attack/web-recon/seclists-wordlist.md)
 * [web Hacking](web-attack/web-hacking.md)
 
-## Basics
+***
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Web Hacking](web-hacking/README.md)
+  * [CORS & SOP](web-hacking/cors-and-sop.md)
