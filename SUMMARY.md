@@ -14,6 +14,7 @@
   * [httpx Tool](web-attack/web-recon/httpx-tool.md)
   * [Directory & endpoint discovery](web-attack/web-recon/directory-and-endpoint-discovery.md)
   * [SecLists wordlist](web-attack/web-recon/seclists-wordlist.md)
+* [web Hacking](web-attack/web-hacking.md)
 
 ## Basics
 
