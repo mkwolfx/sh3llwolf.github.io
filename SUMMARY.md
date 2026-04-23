@@ -16,3 +16,5 @@
   * [CORS & SOP](web-hacking/cors-and-sop.md)
   * [SQL-Injection](web-hacking/sql-injection/README.md)
     * [Retrieving hidden data](web-hacking/sql-injection/retrieving-hidden-data.md)
+    * [application logic (login bypass)](web-hacking/sql-injection/application-logic-login-bypass.md)
+    * [Union |number of columns](web-hacking/sql-injection/union-or-number-of-columns.md)
