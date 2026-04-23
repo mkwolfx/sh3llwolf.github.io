@@ -14,3 +14,4 @@
     * [Retrieving hidden data](web-attack/web-hacking/sql-injection/retrieving-hidden-data.md)
     * [application logic (login bypass)](web-attack/web-hacking/sql-injection/application-logic-login-bypass.md)
     * [Union |number of columns](web-attack/web-hacking/sql-injection/union-or-number-of-columns.md)
+    * [Database-specific syntax](web-attack/web-hacking/sql-injection/database-specific-syntax.md)

