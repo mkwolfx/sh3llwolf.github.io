@@ -16,4 +16,7 @@ SELECT IF(expression, true, false)
 # Using some time-taking operation e.g. BENCHMARK(), will delay server responses if the 
   expression is True.
 BENCHMARK(5000000,ENCODE('MSG','by 5 seconds'))
+
+# PostgreSQL: 
+pg_sleep()
 ```
