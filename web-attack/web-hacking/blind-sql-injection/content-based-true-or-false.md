@@ -14,3 +14,14 @@ http://newspaper.com/items.php?id=2 and 1=1
 
 
 ```
+
+partical
+
+<br>
+
+```applescript
+# condition is true or false
+Cookie: TrackingId=Dc89p84m1aHFWyU9'+and+1=1--;
+# condition is false time
+Cookie: TrackingId=Dc89p84m1aHFWyU9'+and+1=2--;
+```
