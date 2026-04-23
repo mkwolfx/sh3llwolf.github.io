@@ -15,3 +15,5 @@
     * [application logic (login bypass)](web-attack/web-hacking/sql-injection/application-logic-login-bypass.md)
     * [Union |number of columns](web-attack/web-hacking/sql-injection/union-or-number-of-columns.md)
     * [Database-specific syntax](web-attack/web-hacking/sql-injection/database-specific-syntax.md)
+  * [Blind SQL injection](web-attack/web-hacking/blind-sql-injection/README.md)
+    * [Content-based (true or false)](web-attack/web-hacking/blind-sql-injection/content-based-true-or-false.md)
