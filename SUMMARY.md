@@ -14,3 +14,5 @@
 
 * [Web Hacking](web-hacking/README.md)
   * [CORS & SOP](web-hacking/cors-and-sop.md)
+  * [SQL-Injection](web-hacking/sql-injection/README.md)
+    * [Retrieving hidden data](web-hacking/sql-injection/retrieving-hidden-data.md)
