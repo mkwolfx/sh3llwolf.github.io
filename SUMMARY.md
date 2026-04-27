@@ -17,4 +17,5 @@
     * [Database-specific syntax](web-attack/web-hacking/sql-injection/database-specific-syntax.md)
   * [Blind SQL injection](web-attack/web-hacking/blind-sql-injection/README.md)
     * [Content-based (true or false)](web-attack/web-hacking/blind-sql-injection/content-based-true-or-false.md)
-  * [Time-based SQL](web-attack/web-hacking/time-based-sql.md)
+    * [Time-based SQL](web-attack/web-hacking/blind-sql-injection/time-based-sql.md)
+  * [Cross-Site Scripting (XSS)](web-attack/web-hacking/cross-site-scripting-xss.md)
