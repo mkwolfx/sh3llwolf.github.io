@@ -1,4 +1,4 @@
-# Time-based
+# Time-based SQL
 
 This type of blind SQL injection relies on the database pausing for a specified amount of time, then returning the results, indicating successful SQL query executing. Using this method, an attacker enumerates each letter of the desired piece of data using the following logic:
 
