@@ -19,3 +19,4 @@
     * [Content-based (true or false)](web-attack/web-hacking/blind-sql-injection/content-based-true-or-false.md)
     * [Time-based SQL](web-attack/web-hacking/time-based-sql.md)
   * [Cross-Site Scripting (XSS)](web-attack/web-hacking/cross-site-scripting-xss.md)
+  * [File upload](web-attack/web-hacking/file-upload.md)
