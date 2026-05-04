@@ -20,3 +20,4 @@
     * [Time-based SQL](web-attack/web-hacking/time-based-sql.md)
   * [Cross-Site Scripting (XSS)](web-attack/web-hacking/cross-site-scripting-xss.md)
   * [File upload](web-attack/web-hacking/file-upload.md)
+  * [Server Side Request Forgery](web-attack/web-hacking/server-side-request-forgery.md)
