@@ -8,6 +8,7 @@
   * [httpx Tool](web-attack/web-recon/httpx-tool.md)
   * [Directory & endpoint discovery](web-attack/web-recon/directory-and-endpoint-discovery.md)
   * [SecLists wordlist](web-attack/web-recon/seclists-wordlist.md)
+  * [smart recon](web-attack/web-recon/smart-recon.md)
 * [Web Hacking](web-attack/web-hacking/README.md)
   * [CORS & SOP](web-attack/web-hacking/cors-and-sop.md)
   * [SQL-Injection](web-attack/web-hacking/sql-injection/README.md)
