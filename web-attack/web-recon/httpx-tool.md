@@ -17,3 +17,8 @@ httpx -l subs.txt -status-code -title -tech-detect -ip
 
 ```
 
+```
+# To filter your sub.txt and find only live domains:
+
+cat sub.txt | httpx -mc 200,301,302,403 -o live_subs.txt
+```

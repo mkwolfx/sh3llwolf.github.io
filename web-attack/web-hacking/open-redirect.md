@@ -4,8 +4,11 @@
 # find subdomains 
 subfinder -d xyz.com -o sub.txt
 
+# find active subdomains
+cat sub.txt | httpx-toolkit -mc 200,301,302 -o live_subs.txt
+
 # gather urls on this sub domain
-cat sub.txt | waybackurls > end.txt
+cat live_subs.txt | waybackurls > end.txt
 
 # find the openredirect urls only
 cat end.txt | grep "=http" | qsreplace  "https://evil.com" | httpx-toolkit -fr -location
