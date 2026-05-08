@@ -22,3 +22,4 @@
   * [Cross-Site Scripting (XSS)](web-attack/web-hacking/cross-site-scripting-xss.md)
   * [File upload](web-attack/web-hacking/file-upload.md)
   * [Server Side Request Forgery](web-attack/web-hacking/server-side-request-forgery.md)
+  * [Open Redirect](web-attack/web-hacking/open-redirect.md)
