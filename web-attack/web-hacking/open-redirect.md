@@ -8,5 +8,5 @@ subfinder -d xyz.com -o sub.txt
 cat sub.txt | waybackurls > end.txt
 
 # find the openredirect urls only
-cat end.txt | grep "=http" | qsreplace  "https://evil.com" | httpx -fr -location
+cat end.txt | grep "=http" | qsreplace  "https://evil.com" | httpx-toolkit -fr -location
 ```
